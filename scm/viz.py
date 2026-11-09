@@ -248,8 +248,5 @@ def pareto_fig(df: pd.DataFrame, x: str, y: str, target: float) -> go.Figure:
                                        for r in s.itertuples()], hovertemplate="%{text}<br>x=%{x:.4g}, y=%{y:.4g}<extra></extra>"))
     fig.update_layout(font=FONT, height=480, xaxis_title=names[x], yaxis_title=names[y], margin=dict(t=50),
                       title="Varianten im gewählten Szenario – Pareto-Front unter β-Nebenbedingung")
-<<<<<<< HEAD
+
     return fig
-=======
-    return fig
->>>>>>> origin/merle
