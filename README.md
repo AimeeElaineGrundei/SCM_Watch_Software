@@ -44,7 +44,7 @@ events:
 ```
 oder in der Oberfläche unter „Eingriffe“ bzw. per Klick auf einen Kartenknoten.
 
-## Bekannte Grenzen (bitte im Bericht kritisch erwähnen)
+## Bekannte Grenzen
 - **Zahlenwerte stützen sich teils auf Quellen, teils auf begründete Annahmen**, siehe `ANNAHMEN.md`; Menge und Zölle bitte in der Gruppe bestätigen.
 - Fracht + Zoll sind bei leichten Uhrenteilen nur ~0,7 % der Landed Cost; die Kostenkennzahl reagiert daher kaum auf Szenarien (Wirkung zeigt sich bei Lieferzeit, Servicegrad, Lagerwert, CO2e).
 - Tier-2 liefern auftragsbezogen (kein Tier-2-Bestand); keine Qualitätsfehler/Ausschuss; Fehlmengen gehen verloren (kein Nachlieferauftrag).
