@@ -48,8 +48,3 @@ Gewichte: Gehäuse 45 g, Uhrwerk 25 g, Glas 4 g, Armband 16 g aus Posterangaben 
 - diywatch.club: Sellita SW200-1, 215 USD. https://shop.diywatch.club/products/swiss-sw200-with-date-with-3-oclock-crown-position
 - ofrei.com: Sellita SW200-1, 269,40 USD. https://www.ofrei.com/Sellita-Watch-Movement.html
 - Frachtraten, Gebühren, Sea-Intelligence, FR8 Logistik: so in den Postern von Leon Isamuchamedow und Merle Wittmann zitiert; für die Abgabe die Primärquellen dort nachschlagen.
-
-## Hinweise
-- Weiter zu klären: Menge (12.000 vs. 10.000), Zollsatz Australien/Südafrika, Primärquellen für Frachtraten.
-- Frachtkosten machen nur ca. 0,7 % der Landed Cost aus; die Kostenkennzahl bleibt daher in allen Szenarien nahezu gleich. Der Einkauf (≈ 241 € von 289 €) und die Montage (45 €) dominieren.
-- KI-Nachweis (Aufgabenstellung 9.3): Software und Werterecherche mit Claude erstellt; eigene Prüfung, Änderungen und Prompts im Programmentwurf dokumentieren. Konzept, Parameterwahl und Interpretation sind nicht delegierbar (9.2).
